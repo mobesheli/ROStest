@@ -1,2 +1,2 @@
 # ROStest
-Playing with Robotic Operating System ;-) 
+Playing with the Robotic Operating System ;-) 
